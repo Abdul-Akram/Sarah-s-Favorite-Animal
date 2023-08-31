@@ -1,0 +1,47 @@
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(119, 192, 240);
+
+}
+.d1{
+    text-align: center;
+    word-spacing: 350px;
+    color: aliceblue;
+    background-color: rgb(107, 168, 126);
+    background-size: 100px 100px;
+    background-position: 50px 50px;
+}
+h1{
+    font-family: cursive; 
+    
+}
+ol{
+    font-family: sans-serif;
+}
+ul{
+    font-family: sans-serif;
+}
+table{
+    font-family: sans-serif;
+}
+td{
+    padding-inline: 10px;
+    word-spacing: 8px;
+    line-height: 26px;
+}
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  background-color: #4CAF50;
+  color: aliceblue;
+  height: 40px;
+  width:70px;
+  border: 8px solid rgba(39, 38, 38, 0.4);
+  display: grid;
+  place-content: center;
+
+}
